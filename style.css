@@ -1,0 +1,43 @@
+body{
+    overflow-x: hidden;
+}
+
+.bi, .bi-apple{
+    color: whitesmoke;
+}
+.navbar-toggler-icon, .fa-solid, .fa-bars {
+   color: white; 
+}
+nav{
+    padding: 23%;
+}
+
+.secondNav{
+    border-bottom: 0.3px solid rgba(223, 199, 227, 0.756);
+}
+.bckImage{
+    height: 80%;
+    width: 100%;
+    padding-top: 350px;
+}
+
+
+
+.images, .airpod-text-image{
+    position: absolute;
+    top: 30vh;
+}
+.images, .headset{
+    position: relative;
+    min-width: fit-content;
+    top: 20px;
+}
+
+#main, .images{
+    min-width: 70rem;
+    max-height: 20rem;
+}
+.image, .copy-wrapper{
+    max-height: 700px;
+    max-width: 900px;
+}
